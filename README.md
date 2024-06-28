@@ -1,3 +1,7 @@
+Application that focuses on creating a separate study circle for students, having only study related conversations. Further it acts as a platform where students can ask doubts anonymoussly.
+It focuses on the problems that students feels nervous and feels their doubts to be too weak to address.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
